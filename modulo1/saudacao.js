@@ -1,1 +1,0 @@
-let saudacao = "Hello World!"

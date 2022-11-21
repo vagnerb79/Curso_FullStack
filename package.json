@@ -2,10 +2,10 @@
   "name": "grupo1",
   "version": "1.0.0",
   "description": "",
-  "main": "nodemon.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon.js"
+    "start": "index.js"
   },
   "keywords": [],
   "author": "",
