@@ -210,4 +210,3 @@ if(diaSemana != "sabado" && diaSemana != "domingo"){
 }else{
     console.log('O banco está fechado, tente outro dia')
 }
-
