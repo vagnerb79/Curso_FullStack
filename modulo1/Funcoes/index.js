@@ -125,6 +125,8 @@ function cartaoDeVisitas (){
     console.log (nome + sobrenome)
 }
 
+// ##########################################
+
 //Exercício 7
 // Já vimos os operadores matemáticos básicos +, -, / e *.
 // Agora podemos utilizar funções para tornar a matemática mais fácil. Exemplo:
@@ -138,6 +140,8 @@ function cartaoDeVisitas (){
 function multiplicar(numero1, numero2){
     return numero1 * numero2
 }
+
+// ##########################################
 
 //Exercício 8
 // Os engenheiros de uma montadora estão projetando o computador de bordo de um carro. 
@@ -167,6 +171,8 @@ function autonomia (quantidadeDeCombustivel, rendimento){
     console.log(autonomia)
 }
 
+// ##########################################
+
 //Exercício 9
 // Escreva uma função chamada menorNumero. Ela deve receber dois números como parâmetro e retornar o menor entre eles. 
 // Caso os números sejam iguais, basta que se retorne qualquer um deles.
@@ -180,6 +186,8 @@ function menorNumero (numero1, numero2){
         return numero1
     }
 }
+
+// ##########################################
 
 //Exercício 10
 // Para este exercício considere uma função que já foi definida, ela se chama validaCPF.
@@ -200,6 +208,8 @@ function validaCPF(cpf){
         return "CPF inválido"
     }
 }
+
+// ##########################################
 
 //Exercício 11
 // Já sabemos que o loop for executa repetidamente um pedaço de código que indicarmos enquanto uma determinada condição for atendida, a condição de parada.
@@ -224,6 +234,8 @@ function passoAPasso(){
     console.log (i)
 }
 
+// ##########################################
+
 //Exercício 12
 // Vamos reforçar um pouco sobre o que já vimos sobre loops =)
 
@@ -235,6 +247,8 @@ function imprimir5Vezes(){
         console.log("Estou aprendendo Loops")
     }
 }
+
+// ##########################################
 
 //Exercício 13
 // Nos exercícios anteriores, realizamos muitas repetições, porém em todas havíamos colocado um numero fixo de repetições 
@@ -280,6 +294,8 @@ function imprimirAzul(quantidades){
     console.log("Azul")
 }
 
+// ##########################################
+
 //Exercício 14
 // Continuaremos a trabalhar com a variavel i, porém agora você deve criar uma função chamada osPares, que  
 // terá um loop que irá percorrer os numero de 1 a 6 e deverá imprimir a frase "O numero X é par"  onde esse X 
@@ -294,6 +310,8 @@ function osPares (){
         }
     }
 }
+
+// ##########################################
 
 //Exercício 15
 // Vamos fazer mais um exercício para incorporar melhor o que foi aprendido na seção anterior.
@@ -312,6 +330,8 @@ function somaDosPares(x){
     }
     return result;
 }
+
+// ##########################################
 
 //Exercício 16
 // Uma rede de cinemas quer implementar um sistema para controlar a entrada nas suas salas. 
